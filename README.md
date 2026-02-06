@@ -33,7 +33,7 @@ Third-Umpire-DRS-System/
 ├── video_samples/
 │   └── match_clip.mp4
 ├── README.md
-└── utils/
+└── Pictures Needed
 
 ⚙️ Installation
 
